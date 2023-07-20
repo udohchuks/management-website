@@ -1012,6 +1012,10 @@ textarea {
     margin-top: 2.5rem;
   }
 
+  .md\:mt-9 {
+    margin-top: 2.25rem;
+  }
+
   .md\:block {
     display: block;
   }
