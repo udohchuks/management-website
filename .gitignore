@@ -16,3 +16,6 @@
 node_modules
 text.html
 design
+tailwind.config.js
+package.json
+package-lock.json
