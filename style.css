@@ -771,6 +771,10 @@ video {
   align-self: flex-end;
 }
 
+.overflow-x-hidden {
+  overflow-x: hidden;
+}
+
 .rounded-3xl {
   border-radius: 1.5rem;
 }
